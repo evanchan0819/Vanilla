@@ -5,7 +5,7 @@
 	v2.1
 </h3>
 <p align="center">
-	Smooth, simplified icons for Roblox Studio by Elttob, reuploaded and reconfigured by iamEvan.
+	Smooth, simplified icons for Roblox Studio by Elttob, reuploaded and reconfigured by iamEvanYT.
 	<br>
 	<a href="https://iamEvanYT.github.io/Vanilla">Customise your icon set →</a>
 </p>
